@@ -7,19 +7,18 @@
 
 - 📚 I’m Studying at Rajshahi University of Engineering and Technology
 - 🌱 I’m currently learning **Data Structure and Algorithms**
-- 💻 I am currently learning and exploring new web development tools and frameworks to enhance my skills
+- 💻 I am learning and exploring new web development tools and frameworks to enhance my skills
 
 - 📫 How to reach me **deltatanvir2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@tanvir_mahamood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tanvir_mahamood" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100075735153795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvir mahamood dipe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanvir-mahamood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-mahamood" height="30" width="40" /></a>
-<a href="https://fb.com/tanvir mahamood dipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvir mahamood dipe" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tanvirmahamood" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanvirmahamood" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deltatanvir2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deltatanvir2002" height="30" width="40" /></a>
+<a href="https://twitter.com/@tanvir_mahamood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tanvir_mahamood" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tanvir_mahamood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tanvir_mahamood" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanvir_mahamood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanvir_mahamood" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/deltatanvir2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deltatanvir2002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages:</h3>
@@ -32,8 +31,9 @@
 <h3 align="left">Web Development:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<!--<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
   
