@@ -36,7 +36,12 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-  
+
+<h3 align="left">GUI Development:</h3>
+<p align="left"> 
+<a href="https://www.geeksforgeeks.org/introduction-to-java-swing/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/kmajhi/java-swing/main/java%20swing.png" alt="javaswing" width="40" height="40"/> </a> </p>
+
 <h3 align="left">Database:</h3>
 <p align="left"> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
