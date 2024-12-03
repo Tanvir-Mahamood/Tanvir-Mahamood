@@ -7,7 +7,7 @@
 
 - 📚 I’m Studying at Rajshahi University of Engineering and Technology
 - 🌱 I’m currently learning **Data Structure and Algorithms**
-- 💻 I am learning and exploring new web development tools and frameworks to enhance my skills
+- 💻 I am learning and exploring **new web development tools and frameworks** to enhance my skills
 
 - 📫 How to reach me **deltatanvir2002@gmail.com**
 
