@@ -37,6 +37,11 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
+<h3 align="left">App Development:</h3>
+<p align="left"> 
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" alt="kotlin" width="40" height="40"/> </a> </p>
+
 <h3 align="left">GUI Development:</h3>
 <p align="left"> 
 <a href="https://www.geeksforgeeks.org/introduction-to-java-swing/" target="_blank" rel="noreferrer"> 
@@ -45,6 +50,12 @@
 <h3 align="left">Database:</h3>
 <p align="left"> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Machine Learning & Data Analysis:</h3>
+<p align="left"> 
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://logosandtypes.com/wp-content/uploads/2024/02/NumPy.png" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+</p>
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
