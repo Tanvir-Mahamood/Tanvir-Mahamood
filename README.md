@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanvir Mahamood</h1>
-<h3 align="center">B.Sc in CSE student @RUET | Competitive Programmer | Full-Stack Web Developer </h3>
+<h3 align="center">B.Sc in CSE student @RUET | Competitive Programmer | Full-Stack Web Developer | Machine Learning Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2172077/screenshots/7331254/media/3212702a9b3b63249c47a547972bbf6a.gif">
 
