@@ -12,6 +12,8 @@
 <a href="https://www.facebook.com/profile.php?id=100075735153795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvir mahamood dipe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanvir-mahamood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-mahamood" height="30" width="40" /></a>
 <a href="https://twitter.com/@tanvir_mahamood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tanvir_mahamood" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tanvir_62b/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="tanvir_62b" height="30" width="30" /></a>
+<a href="https://www.threads.com/@tanvir_62b" target="blank"><img align="center" src="https://i.pinimg.com/736x/33/7f/27/337f27be6bfddfcb5ecc9b95b1d3ac2b.jpg" alt="tanvir_62b" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/tanvir_mahamood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tanvir_mahamood" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanvir_mahamood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanvir_mahamood" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/deltatanvir2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deltatanvir2002" height="30" width="40" /></a>
@@ -71,4 +73,6 @@
     </td>
   </tr>
 </table>
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 
