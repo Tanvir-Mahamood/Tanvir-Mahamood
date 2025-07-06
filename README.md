@@ -51,6 +51,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html" target="_blank" rel="noreferrer"> 
 <img src="https://stm32-base.org/assets/img/logos/STM32-base_logo_no_text_transparent.png" alt="stm32 bluepill" width="40" height="40"/> </a>
+<a href="https://www.netacad.com/cisco-packet-tracer" target="_blank" rel="noreferrer"> <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="cisco" width="40" height="40"/> </a>
 
 
 ## Github Overview
@@ -72,8 +73,12 @@
       <a href="https://github.com/tanvir-mahamood">
 <img alt="tanvir-mahamood's github languages" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-mahamood&langs_count=8&layout=compact&theme=dark&hide=html,css,shell,batchfile,Tcl,lex,yacc,Awk,TeX" /></a>
     </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanvir-mahamood&theme=dark" alt="Total Contributions"/>
+    </td>
   </tr>
 </table>
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
+
 
