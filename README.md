@@ -8,6 +8,9 @@
 - 📚 I’m Studying at Rajshahi University of Engineering and Technology
 - 📫 How to reach me **deltatanvir2002@gmail.com**
 
+## GitHub Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Tanvir-Mahamood&theme=onedark)]
+
 ## Connect with me:
 <a href="https://www.facebook.com/profile.php?id=100075735153795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvir mahamood dipe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanvir-mahamood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-mahamood" height="30" width="40" /></a>
@@ -79,6 +82,7 @@
   </tr>
 </table>
 
+## Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 
 
