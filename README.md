@@ -1,5 +1,3 @@
-<!-- Stylish GitHub Profile README -->
-
 <h1 align="center">Hi, I'm Tanvir Mahamood 👋</h1>
 
 <h3 align="center">
@@ -41,6 +39,20 @@
 <a href="https://codeforces.com/profile/tanvir_mahamood"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" /></a>
 <a href="https://www.leetcode.com/tanvir_mahamood"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" /></a>
 <a href="https://www.hackerrank.com/deltatanvir2002"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" /></a>
+<a href="https://youtube.com/@tanvirmahamood7023?si=8CaXZ5JDoYkZBCeA"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="30" alt="YouTube Channel"/></a>
+</p>
+
+---
+
+### 🎥 My YouTube Channel  
+<p align="center">
+  <a href="https://youtube.com/@tanvirmahamood7023?si=8CaXZ5JDoYkZBCeA">
+    <img src="https://img.shields.io/badge/Subscribe%20Now-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe Button"/>
+  </a>
+</p>
+
+<p align="center">
+🎬 Check out my playlist on <strong>Computer Networks Lab with Cisco Packet Tracer</strong> — covering routers, switches, subnetting, routing protocols, and a complete Campus Network setup!
 </p>
 
 ---
