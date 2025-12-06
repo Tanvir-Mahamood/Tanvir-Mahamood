@@ -52,7 +52,21 @@
 </p>
 
 <p align="center">
-🎬 Check out my playlist on <strong>Computer Networks Lab with Cisco Packet Tracer</strong> — covering routers, switches, subnetting, routing protocols, and a complete Campus Network setup!
+  🎬 Welcome to my YouTube channel — a growing hub for <strong>Computer Science & Engineering</strong> learners!
+</p>
+
+<p align="center">
+  ✅ Explore my playlists:
+</p>
+
+<p align="center">
+  • <strong>Computer Networks Lab with Cisco Packet Tracer</strong> — routers, switches, subnetting, routing protocols, and full campus network setups.<br>
+  • <strong>Compiler Design</strong> — lexical analysis, parsing, syntax trees, and hands‑on examples.<br>
+  • <strong>Digital Image Processing</strong> — image filtering, transformations, enhancement, and practical demonstrations.
+</p>
+
+<p align="center">
+  🚀 More playlists coming soon on various tech topics as I continue learning and sharing my journey!
 </p>
 
 ---
