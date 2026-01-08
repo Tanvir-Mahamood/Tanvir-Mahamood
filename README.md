@@ -59,10 +59,11 @@
   ✅ Explore my playlists:
 </p>
 
-<p align="center">
+<p>
   • <strong>Computer Networks Lab with Cisco Packet Tracer</strong> — routers, switches, subnetting, routing protocols, and full campus network setups.<br>
   • <strong>Compiler Design</strong> — lexical analysis, parsing, syntax trees, and hands‑on examples.<br>
-  • <strong>Digital Image Processing</strong> — image filtering, transformations, enhancement, and practical demonstrations.
+  • <strong>Digital Image Processing</strong> — image filtering, transformations, enhancement, and practical demonstrations.<br>
+  • <strong>Machine Learning Sessional</strong> — coding implementations of core ML techniques and algorithms.<br>
 </p>
 
 <p align="center">
