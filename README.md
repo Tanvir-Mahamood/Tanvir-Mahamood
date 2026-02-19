@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Tanvir Mahamood 👋</h1>
 
 <h3 align="center">
-🎓 B.Sc in CSE @ RUET | 💻 Competitive Programmer | 🌐 Full-Stack Web Developer | 🤖 ML Enthusiast
+🎓 B.Sc in CSE @ RUET | 💻 Competitive Programmer | 🤖 ML/DL Practitioner | 🌐 Full-Stack Web Developer 
 </h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/2172077/screenshots/7331254/media/3212702a9b3b63249c47a547972bbf6a.gif" alt="Coding GIF" width="280" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Coding GIF" width="280" />
 </p>
 
 <p align="center">
@@ -14,12 +14,21 @@
 
 ---
 
-### 📚 About Me  
-- 🎓 Studying **Computer Science & Engineering** at **RUET, Bangladesh**  
-- 💻 Passionate about **Competitive Programming**, **Web Development**, and **Machine Learning**  
-- 📫 Reach me at **[deltatanvir2002@gmail.com](mailto:deltatanvir2002@gmail.com)**  
-
----
+<table border="0">
+  <tr>
+    <td>
+      <h3>📚 About Me</h3>
+      <ul>
+        <li>🎓 Final Year <b>Computer Science & Engineering</b> at <b>RUET, Bangladesh</b></li>
+        <li>💻 Passionate about <b>Competitive Programming</b>, <b>Machine Learning</b>, <b>Deep Learning</b> and <b>Web Development</b></li>
+        <li>📫 Reach me at <b><a href="mailto:deltatanvir2002@gmail.com">deltatanvir2002@gmail.com</a></b></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="180" />
+    </td>
+  </tr>
+</table>
 
 ### 🏆 GitHub Trophies  
 <p align="center">
@@ -59,12 +68,12 @@
   ✅ Explore my playlists:
 </p>
 
-<p>
-  • <strong>Computer Networks Lab with Cisco Packet Tracer</strong> — routers, switches, subnetting, routing protocols, and full campus network setups.<br>
-  • <strong>Compiler Design</strong> — lexical analysis, parsing, syntax trees, and hands‑on examples.<br>
-  • <strong>Digital Image Processing</strong> — image filtering, transformations, enhancement, and practical demonstrations.<br>
-  • <strong>Machine Learning Sessional</strong> — coding implementations of core ML techniques and algorithms.<br>
-</p>
+  - [Computer Networks Lab with Cisco Packet Tracer](https://youtube.com/playlist?list=PLigCe76hI6LJEmRg9Gt_ggjVk3zPOg60t&si=ABx9pS8BcFaGqMCj) — routers, switches, subnetting, routing protocols, and full campus network setups.<br>
+  - [Compiler Design](https://youtube.com/playlist?list=PLigCe76hI6LIu-ALwIbsLSBu7P4j-EZYO&si=DUa7wT6t2QSSI__O) — lexical analysis, parsing, syntax trees, and hands‑on examples.<br>
+  - [Digital Image Processing](https://youtube.com/playlist?list=PLigCe76hI6LJ36hyRvslI4FZEp9U8_V2w&si=7SkmTqZ60G8vaNTx) — image filtering, transformations, enhancement, and practical demonstrations.<br>
+  - [Machine Learning Sessional](https://youtube.com/playlist?list=PLigCe76hI6LKYNpWJf1oq1tuFOKg0wxIA&si=0VADg6lfXCzwMRLY) — coding implementations of core ML techniques and algorithms.<br>
+  - [My Undergraduate Projects](https://youtube.com/playlist?list=PLigCe76hI6LKyjajQgROKK_K5atJMeLkA&si=rbrT85mQkNB_SWiK) - Web development Projects and GUI.
+
 
 <p align="center">
   🚀 More playlists coming soon on various tech topics as I continue learning and sharing my journey!
@@ -73,6 +82,10 @@
 ---
 
 ### 💻 Tech Stack  
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/2172077/screenshots/7331254/media/3212702a9b3b63249c47a547972bbf6a.gif" alt="Coding GIF" width="280" />
+</p>
 
 #### 🖥️ Programming Languages  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
