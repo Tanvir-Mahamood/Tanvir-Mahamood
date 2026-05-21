@@ -26,7 +26,7 @@
 Name:       Tanvir Mahamood
 Education:  B.Sc. in Computer Science & Engineering @ RUET, Bangladesh
 Interests:  Competitive Programming, Machine Learning, Deep Learning, Web Development
-Email:      deltatanvir2002@gmail.com
+Email:      mahamoodtanvir1@gmail.com
 ```
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="200" />
@@ -49,7 +49,7 @@ Email:      deltatanvir2002@gmail.com
 
 <p>
   <a href="https://www.facebook.com/profile.php?id=100075735153795"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;
-  <a href="mailto:deltatanvir2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="mailto:mahamoodtanvir1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/tanvir-mahamood"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://twitter.com/tanvir_mahamood"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
   <a href="https://www.instagram.com/tanvir_62b/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
