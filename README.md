@@ -34,7 +34,7 @@ Email:      mahamoodtanvir1@gmail.com
 - Building robust **full-stack web applications** with modern frameworks
 - Exploring **Machine Learning** & **Deep Learning** to solve real-world problems
 - Sharpening problem-solving skills through **Competitive Programming**
-- Sharing knowledge on my **[YouTube Channel](https://www.youtube.com/@tanvirmahamood)** with 5+ educational playlists
+- Sharing knowledge on my **[YouTube Channel](https://www.youtube.com/@tanvirmahamood)** 
 - Open to collaborations on **open-source** and **research** projects
 
 <br clear="right"/>
@@ -110,18 +110,20 @@ Email:      mahamoodtanvir1@gmail.com
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 #### ML / Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-F05032?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-FCC624?style=for-the-badge&logo=bash&logoColor=black)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
@@ -147,41 +149,6 @@ Email:      mahamoodtanvir1@gmail.com
 
 ---
 
-<!-- Trophies -->
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanvir-Mahamood&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-<!-- Activity Graph -->
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-mahamood&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true" width="100%" />
-</p>
-
----
-
-<!-- Snake Animation -->
-<!--
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvir-mahamood/tanvir-mahamood/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvir-mahamood/tanvir-mahamood/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tanvir-mahamood/tanvir-mahamood/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</p>
--->
-
----
-
-<!-- Quote -->
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default" alt="Quote" />
-</p>
 
 <!-- Footer -->
 <div align="center">
